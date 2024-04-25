@@ -1,0 +1,8 @@
+.click{
+    cursor: pointer;
+}
+
+.flexxx{
+    display: flex;
+    gap: 20px;
+}

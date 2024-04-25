@@ -1,0 +1,55 @@
+#footer{
+    background-color: rgba(55,55,55,1);
+    padding: 40px 0 50px 0;
+    display: flex;
+    justify-content: center;
+    min-width: 1200px;
+}
+.footer-container{
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.footer-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.footer-logo-box{
+    gap: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.footer-logo-text{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(255,255,255,1);
+    line-height: 140%;
+    letter-spacing: -0.4px;
+
+}
+.footer-link-box{
+    gap:20px;
+    display: flex;
+    align-items: center;
+}
+.footer-email-link{
+    color: rgba(255,255,255,1);
+
+    font-size: 12px;
+    font-weight: 400;
+    
+}
+
+
+
+
+.footer-copyright{
+    color: rgba(255,255,255,1);
+
+    font-size: 12px;
+    font-weight: 400;
+}
